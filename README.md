@@ -9,3 +9,4 @@
 anjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckswls147&show_icons=true&theme=radical)
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckswls147)](https://solved.ac/ckswls147)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
