@@ -14,7 +14,7 @@
          <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/><img src="https://img.shields.io/badge/PyCharm-      000000?style=flat&logo=PyCharm&logoColor=white"/>
 </p>
 
-<p align="center"
+<p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckswls147)](https://github.com/ckswls147/github-readme-stats)<br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ckswls147)](https://solved.ac/ckswls147)
 </p>
