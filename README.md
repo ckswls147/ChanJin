@@ -1,6 +1,6 @@
 [![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=ckswls147)](https://solved.ac/ckswls147)
+<h2>Stack</h2>
 <p align="center">
-   <h2>Stack</h2>
          <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
          <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=Thymeleaf&logoColor=white"/>
