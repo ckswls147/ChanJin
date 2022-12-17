@@ -19,5 +19,3 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ckswls147)](https://solved.ac/ckswls147)
 
 </div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
