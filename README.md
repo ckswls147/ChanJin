@@ -13,8 +13,8 @@
 <p align="center">
          <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/>
          <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/><img src="https://img.shields.io/badge/PyCharm-      000000?style=flat&logo=PyCharm&logoColor=white"/>
-</p>
+<!-- </p>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ckswls147)](https://solved.ac/ckswls147)
-
+ -->
 </div>
