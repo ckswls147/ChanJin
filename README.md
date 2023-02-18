@@ -5,10 +5,11 @@
 <p align="center">
          <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
          <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Django&logoColor=white"/>
+         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Django&logoColor=white"/>
+         <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>
+         <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/>
          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
          <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=Thymeleaf&logoColor=white"/>
-         <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>
-         <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/></a>&nbsp 
 </p>
 <h2 align = "center">Tool</h2>
 <p align="center">
