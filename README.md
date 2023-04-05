@@ -22,3 +22,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ckswls147)](https://solved.ac/ckswls147)
  -->
 </div>
+
+노션 링크
+https://www.notion.so/1eff0f81e72441f9a8e666c328907153?pvs=4
