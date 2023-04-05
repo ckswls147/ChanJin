@@ -23,5 +23,7 @@
  -->
 </div>
 
-노션 링크
+<h2 align = "center">노션 링크</h2>
+<p>
 https://www.notion.so/1eff0f81e72441f9a8e666c328907153?pvs=4
+</p>
