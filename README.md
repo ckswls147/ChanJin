@@ -16,7 +16,7 @@
          <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/>
          <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/><img src="https://img.shields.io/badge/PyCharm-      000000?style=flat&logo=PyCharm&logoColor=white"/>
 
-<h2 align = "center">노션 링크</h2>
+<h2 align = "center">Portfolio</h2>
 <p>
 https://www.notion.so/1eff0f81e72441f9a8e666c328907153?pvs=4
 </p>         
